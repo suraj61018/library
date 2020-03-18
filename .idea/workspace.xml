@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="739012b9-3f20-4bab-b14f-51de43ac22cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tdd.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/BookReservationTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -138,12 +132,7 @@
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.2" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
-      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" />
+      <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
   </component>
@@ -157,7 +146,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584409102679</updated>
-      <workItem from="1584409105405" duration="3649000" />
+      <workItem from="1584409105405" duration="4249000" />
+      <workItem from="1584419377893" duration="80000" />
     </task>
     <servers />
   </component>
@@ -181,22 +171,26 @@
       <screen x="1360" y="0" width="1360" height="768" />
     </state>
     <state x="1360" y="27" width="501" height="741" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584412631878" />
-    <state width="1314" height="336" key="GridCell.Tab.0.bottom" timestamp="1584412684984">
+    <state x="2109" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584419455481">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2109" y="297" width="424" height="484" key="FileChooserDialogImpl/0.256.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584419455481" />
+    <state width="1314" height="336" key="GridCell.Tab.0.bottom" timestamp="1584414300783">
       <screen x="1360" y="0" width="1360" height="768" />
     </state>
-    <state width="1314" height="336" key="GridCell.Tab.0.bottom/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584412684984" />
-    <state width="1314" height="336" key="GridCell.Tab.0.center" timestamp="1584412684979">
+    <state width="1314" height="336" key="GridCell.Tab.0.bottom/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584414300783" />
+    <state width="1314" height="336" key="GridCell.Tab.0.center" timestamp="1584414300783">
       <screen x="1360" y="0" width="1360" height="768" />
     </state>
-    <state width="1314" height="336" key="GridCell.Tab.0.center/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584412684979" />
-    <state width="1314" height="336" key="GridCell.Tab.0.left" timestamp="1584412684979">
+    <state width="1314" height="336" key="GridCell.Tab.0.center/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584414300783" />
+    <state width="1314" height="336" key="GridCell.Tab.0.left" timestamp="1584414300783">
       <screen x="1360" y="0" width="1360" height="768" />
     </state>
-    <state width="1314" height="336" key="GridCell.Tab.0.left/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584412684979" />
-    <state width="1314" height="336" key="GridCell.Tab.0.right" timestamp="1584412684980">
+    <state width="1314" height="336" key="GridCell.Tab.0.left/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584414300783" />
+    <state width="1314" height="336" key="GridCell.Tab.0.right" timestamp="1584414300783">
       <screen x="1360" y="0" width="1360" height="768" />
     </state>
-    <state width="1314" height="336" key="GridCell.Tab.0.right/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584412684980" />
+    <state width="1314" height="336" key="GridCell.Tab.0.right/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584414300783" />
     <state x="1846" y="333" key="ReplaceDuplicatesPrompt" timestamp="1584412638090">
       <screen x="1360" y="0" width="1360" height="768" />
     </state>
@@ -205,6 +199,10 @@
       <screen x="1360" y="0" width="1360" height="768" />
     </state>
     <state x="1529" y="31" key="SettingsEditor/1360.0.1360.768/0.27.1360.741@1360.0.1360.768" timestamp="1584410886420" />
+    <state x="1982" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1584419439819">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1982" y="366" key="com.intellij.ide.util.TipDialog/0.256.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584419439819" />
     <state x="1703" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584411303512">
       <screen x="1360" y="0" width="1360" height="768" />
     </state>
